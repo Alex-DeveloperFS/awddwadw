@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.counter {
+    text-align: center;
+    font-size: 40px;
+}
+
+.btn-box {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button {
+    width: 200px;
+    height: 60px;
+}
